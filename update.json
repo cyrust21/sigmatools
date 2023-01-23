@@ -1,6 +1,7 @@
 {
-"UpdateVersion" : "210",
+"UpdateVersion" : "1.1",
 "UpdateMessage" : "Hello user! you are using old version of FF TOOLS PRO, you need to update to the latest version in order to experience a total multifunctions.",
 "UpdateUrl" : "",
-"UpdateBtn" : "Update"
+"UpdateBtn" : "Update",
+"Btn" : "false"
 }
